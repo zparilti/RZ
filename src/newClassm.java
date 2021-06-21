@@ -7,6 +7,9 @@ public class newClassm {
 		System.out.println("HELLO dasfTHERE");
 		System.out.println("THIS IS IT");
 		
+		System.out.println("THIS ITHIS FROM UP THERE");
+		
+		
 		
 		
 	}
